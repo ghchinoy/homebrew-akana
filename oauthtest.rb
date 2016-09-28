@@ -2,7 +2,7 @@ class Oauthtest < Formula
   desc "OAuth tester"
   homepage "https://github.com/ghchinoy/oauthtest"
   url "https://github.com/ghchinoy/oauthtest/releases/download/1.0.0/oauthtest-1.0.0.tar.gz"
-  sha256 "4bfc5dd42ebd32434bc3b7f1be07a5ff92df0e60"
+  sha256 "8fe6010d1753f5c50632563d4216791dbb182a2596b8ca62bc7404fd7c6eff57"
 
   bottle :unneeded
 
